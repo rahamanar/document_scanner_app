@@ -1,5 +1,9 @@
 # document_scanner_app
 
+A Document Scanner App which Scans your docs,
+after a scan, you can crop, apply filters, etc
+You can also save docs to the cloud and modify them anytime
+
 Watch demo video : https://drive.google.com/file/d/1MEzh_7_V543yqB5tHyF_HNDdR6JsNBfW/view?usp=sharing
 
 # Screenshots
