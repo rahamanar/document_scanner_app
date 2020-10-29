@@ -1,5 +1,7 @@
 # document_scanner_app
 
+Watch demo video : https://drive.google.com/file/d/1MEzh_7_V543yqB5tHyF_HNDdR6JsNBfW/view?usp=sharing
+
 # Screenshots
 <img src="https://github.com/rahamanar/document_scanner_app/blob/main/Screenshot1.png" width="160" height="280">          <img src="https://github.com/rahamanar/document_scanner_app/blob/main/Screenshot2.png" width="160" height="280">          <img src="https://github.com/rahamanar/document_scanner_app/blob/main/Screenshot3.png" width="160" height="280">
 <br/>
